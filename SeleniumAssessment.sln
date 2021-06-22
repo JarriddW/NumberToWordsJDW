@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumAssessment", "SeleniumAssessment\SeleniumAssessment.csproj", "{0AB44000-B150-450C-AD3F-DD3CE2CB4B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToWords", "NumbersToWords\NumbersToWords.csproj", "{3A189744-C791-457A-B802-350A34835470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB44000-B150-450C-AD3F-DD3CE2CB4B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB44000-B150-450C-AD3F-DD3CE2CB4B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB44000-B150-450C-AD3F-DD3CE2CB4B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB44000-B150-450C-AD3F-DD3CE2CB4B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A189744-C791-457A-B802-350A34835470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A189744-C791-457A-B802-350A34835470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A189744-C791-457A-B802-350A34835470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A189744-C791-457A-B802-350A34835470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {136F66B9-D747-4C0C-831D-E6F2F0F40585}
+	EndGlobalSection
+EndGlobal
